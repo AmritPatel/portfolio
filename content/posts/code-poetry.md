@@ -1,11 +1,11 @@
 ---
 date: "2018-02-13T13:56:12-05:00"
-draft: false
 showDate: true
 tags:
 - poem
 - code
 title: '`Code` Poetry'
+draft: true
 ---
 
 Pseudo `code` poem.
