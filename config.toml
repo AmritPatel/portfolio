@@ -2,7 +2,7 @@ baseurl                  = "https://gifted-kirch-bfc8d4.netlify.app/"           
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "Call me Amrit"
 theme = "hugo-theme-sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -12,19 +12,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
+    favicon              = "amrit.ico"
     homepage             = "main"                           # What to call the home page link
     footerText           = "Call me Sam, a theme for Hugo."
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Sam"
+    description          = "Amrit Patel's portfolio of photographic projects." # Max 160 characters show in search results
+    images               = ["amrit.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Call me Amrit."
     # rss                = ""
 
 [[params.mainMenu]]
     link = "posts"
-    text = "posts"
+    text = "projects"
 
 [[params.mainMenu]]
     link = "gallery"
@@ -36,7 +36,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.mainMenu]]
     link = "about"
-    text = "who is sam?"
+    text = "who is amrit?"
 
 [imaging]
     quality = 75
