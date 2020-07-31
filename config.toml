@@ -1,4 +1,4 @@
-baseurl                  = "https://example.com"           # Your domain name
+baseurl                  = "https://gifted-kirch-bfc8d4.netlify.app/"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
