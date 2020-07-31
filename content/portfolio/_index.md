@@ -1,6 +1,6 @@
 ---
 clickablePhotos: true
-maxWidth: 600x
+maxWidth: 800x
 title: Portfolio
 type: gallery
 url: /portfolio
