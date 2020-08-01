@@ -17,9 +17,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     footerText           = "Call me Sam, a theme for Hugo."
 
 # Metadata for Open Graph and Twitter
-    description          = "Amrit Patel's portfolio of photographic projects." # Max 160 characters show in search results
+    description          = "Amrit Patel's photography portfolio." # Max 160 characters show in search results
     images               = ["amrit.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Amrit."
+    title                = "Amrit Patel's photography portfolio."
     # rss                = ""
 
 [[params.mainMenu]]
@@ -36,7 +36,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.mainMenu]]
     link = "about"
-    text = "who is amrit?"
+    text = "about"
 
 [imaging]
-    quality = 75
+    quality = 100
