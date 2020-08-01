@@ -3,6 +3,8 @@ clickablePhotos: true
 maxWidth: 600x
 title: Recent wanderings.
 url: /gallery
+images:
+- /gallery/chitwan/000528800021.jpg
 ---
 
 # Chitwan

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel on Call me Amrit</title>
+    <link>/tags/travel/</link>
+    <description>Recent content in travel on Call me Amrit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stuck in Hua Hin.</title>
+      <link>/posts/stuck-in-hua-hin/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/stuck-in-hua-hin/</guid>
+      <description>Part 1   Part 2   Part 3   Part 4   Part 5   Part 6   </description>
+    </item>
+    
+  </channel>
+</rss>
