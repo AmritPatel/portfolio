@@ -39,4 +39,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     text = "about"
 
 [imaging]
-    quality = 100
+# Default resample filter used for resizing. Default is Box,
+# a simple and fast averaging filter appropriate for downscaling.
+# See https://github.com/disintegration/imaging
+    resampleFilter = "box"
+
+# Default JPEG quality setting. Default is 75.
+    quality = 75
