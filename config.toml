@@ -2,7 +2,7 @@ baseurl                  = "https://gifted-kirch-bfc8d4.netlify.app/"           
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Amrit"
+title                    = "Amrit Patel's photography portfolio"
 theme = "hugo-theme-sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -17,9 +17,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     footerText           = "Built and maintained by Amrit Patel. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)."
 
 # Metadata for Open Graph and Twitter
-    description          = "Amrit Patel's photography portfolio." # Max 160 characters show in search results
+    description          = "Amrit Patel's photography portfolio" # Max 160 characters show in search results
     images               = ["amrit.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Amrit Patel's photography portfolio."
+    title                = "Amrit Patel's photography portfolio"
     # rss                = ""
 
 [[params.mainMenu]]
@@ -45,4 +45,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     resampleFilter = "box"
 
 # Default JPEG quality setting. Default is 75.
-    quality = 75
+    quality = 60
