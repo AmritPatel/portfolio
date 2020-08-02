@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "amrit.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Call me Sam, a theme for Hugo."
+    footerText           = "Built and maintained by Amrit Patel. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)."
 
 # Metadata for Open Graph and Twitter
     description          = "Amrit Patel's photography portfolio." # Max 160 characters show in search results
@@ -28,7 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.mainMenu]]
     link = "gallery"
-    text = "gallery"
+    text = "wanderings"
 
 [[params.mainMenu]]
     link = "portfolio"
