@@ -45,4 +45,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     resampleFilter = "box"
 
 # Default JPEG quality setting. Default is 75.
-    quality = 75
+    quality = 50
