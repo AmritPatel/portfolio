@@ -1,6 +1,6 @@
 ---
 clickablePhotos: true
-maxWidth: 500x
+maxWidth: 400x
 title: Recent wanderings
 url: /gallery
 images:

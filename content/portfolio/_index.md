@@ -1,6 +1,6 @@
 ---
 clickablePhotos: false
-maxWidth: 500x
+maxWidth: 400x
 title: A collection of analog black and white photography.
 url: /portfolio
 images:
