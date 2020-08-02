@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     text = "projects"
 
 [[params.mainMenu]]
-    link = "gallery"
+    link = "wanderings"
     text = "wanderings"
 
 [[params.mainMenu]]
@@ -45,4 +45,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     resampleFilter = "box"
 
 # Default JPEG quality setting. Default is 75.
-    quality = 50
+    quality = 75
