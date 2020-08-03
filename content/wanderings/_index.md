@@ -68,7 +68,7 @@ A lone dog crosses the street during midday hustle.
 Enjoying a lollipop while riding in an e-rickshaw back to the lodge.
 
 {{< image-resize IMG_20191202_0075.jpg "1024x" >}}
-Owner sits on steps outside of Happy House Handicraft shop awaiting customers.
+Owner sits on steps outside of _Happy House Handicraft Shop_ awaiting customers.
 
 {{< image-resize 000528800002.jpg "1024x" >}}
 Playing on a traditional bamboo swing called _linge ping_. Large canoe in foreground made from single massive silk cotton tree trunk.
