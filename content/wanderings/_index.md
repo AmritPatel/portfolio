@@ -1,6 +1,10 @@
 ---
 title: Recent wanderings
 url: /wanderings
+categories:
+  - photo
+tags:
+  - travel
 images:
 - /wanderings/000528800021.jpg
 ---

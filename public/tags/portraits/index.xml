@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portraits on Amrit Patel&#39;s photography portfolio</title>
+    <link>/tags/portraits/</link>
+    <description>Recent content in portraits on Amrit Patel&#39;s photography portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/portraits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A collection of analog black and white photography.</title>
+      <link>/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>Jonathan Evans, Washington, D.C., 2018.
+ Ashley and Phil, Wheaton, MD, 2017.
+ Gran and Grandson, Sun City Center, FL, 2017.
+ Dean and Cathy, Davidson, NC, 2017.
+ Anniversary, Hot Springs, NC, 2017.
+ Arjan Neng, Bangkok, 2017.
+ Family Photoshoot Fail, Wheaton, MD, 2017.
+ All Action, Anna Maria, FL, 2018.
+ Bronson-Watkins Family, Anna Maria, FL, 2018.
+ Inspector Matt, Hollywood, AL, 2018.
+ Not All Who Wander Are Lost, Bradenton, FL, 2018.</description>
+    </item>
+    
+  </channel>
+</rss>

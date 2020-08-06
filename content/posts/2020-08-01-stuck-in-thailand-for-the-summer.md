@@ -1,5 +1,5 @@
 ---
-title: A summer stuck in Thailand
+title: A month in _Hua Hin_ during the 2020 pandemic
 author: Amrit D. Patel
 date: '2020-08-01'
 slug: stuck-in-hua-hin
@@ -9,8 +9,6 @@ tags:
   - travel
 showDate: yes
 ---
-
-# Hua Hin
 
 After spending several months in Bangkok, we decided to leave the city for the sleepy beach town of Hua Hin about 3 hours south. The following episodes document our monthlong stay.
 

@@ -65,5 +65,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>portraits</title>
+      <link>/tags/portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/portraits/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

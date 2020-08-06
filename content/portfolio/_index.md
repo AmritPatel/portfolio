@@ -1,6 +1,10 @@
 ---
 title: A collection of analog black and white photography.
 url: /portfolio
+categories:
+  - photo
+tags:
+  - portraits
 images:
 - /portfolio/20180422-AMI-2018-37.jpg
 ---
