@@ -40,7 +40,7 @@ No fish caught, but plenty of fun.
 {{< image-resize IMG_20191202_0027.jpg "1024x" >}}
 
 {{< image-resize IMG_20191202_0030.jpg "1024x" >}}
-River fishing continues as Mahout bathes elephant in background.
+River fishing continues as mahout bathes elephant in background.
 
 ### Around the village of Sauraha
 
