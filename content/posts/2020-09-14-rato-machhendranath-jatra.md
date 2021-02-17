@@ -12,12 +12,12 @@ showDate: yes
 
 ![The procession reaches Bungamati, 2 km south of Patan.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-01.jpg)
 The procession reaches Bungamati, 2 km south of Patan.
-![People -- Jyapus especially -- are happy that they are able to fulfill their religious duty even if five months late.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-02.jpg)
-People -- Jyapus especially -- are happy that they are able to fulfill their religious duty even if five months late.
+![People -- the Jyapu community especially -- are happy that they are able to fulfill their religious duty even if five months late.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-02.jpg)
+People -- the Jyapu community especially -- are happy that they are able to fulfill their religious duty even if five months late.
 ![Bystanders burning straw as palanquin passes.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-03.jpg)
 Bystanders burning straw as palanquin passes.
-![Rato Machhendranath transported on palanquin by Newar priests as crowd surrounds.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-04.jpg)
-Rato Machhendranath transported on palanquin by Newar priests as crowd surrounds.
+![Newar priests accompanied by a crowd transport Rato Machhendranath.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-04.jpg)
+Newar priests accompanied by a crowd transport Rato Machhendranath.
 ![Arrival at Bungamati temple.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-05.jpg)
 Arrival at Bungamati temple.
 ![Newar priests finished with their duty.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-06.jpg)
