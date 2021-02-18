@@ -150,7 +150,7 @@ May 27, 2020, Dinner at local favorite _Best Beef_.
 
 {{< image-resize "IMG_20200530_173540~2.jpg" "1024x" >}}
 
-May 30, 2020, A massive mango tree overlooks the pool at our Hua Hin villa for the month. 
+May 30, 2020, A massive mango tree overlooks the pool at our _Hua Hin_ villa for the month. 
 
 {{< image-resize "IMG_20200607_121350~2.jpg" "1024x" >}}
 

@@ -29,7 +29,7 @@ Street dog resting in burnt straw.
 
 **Rato Machindranath Jatra** (Nepal Bhasa: बुंग द्यः जात्रा, **Buṅga Dyaḥ Jātrā**) is a chariot procession honoring the Vajrayani Buddhism deity of compassion Avalokiteśvara held in Lalitpur, Nepal. It is one of the greatest religious events in the city and the longest chariot festival celebrated in the country.
 
-Buṅga Dyaḥ is also known as Raktalokitesvara Karunamaya and Rāto Machhindranāth and is revered as the giver of rain. The name Rato Machhendranath means Red Machhendranath in a reference to the color of the deity's image. The chariot festival is held according to the lunar calendar, so the date is changeable. It begins on the 4th day of the bright fortnight of Bachhalā, the seventh month in the lunar Nepal Sambat calendar. However, due to COVID-19, festivities were delayed by about 5 months due to government imposition of a lockdown.
+Buṅga Dyaḥ is also known as Raktalokitesvara Karunamaya and Rato Machhendranath and is revered as the giver of rain. The name Rato Machhendranath means Red Machhendranath in a reference to the color of the deity's image. The chariot festival is held according to the lunar calendar, so the date is changeable. It begins on the 4th day of the bright fortnight of Bachhalā, the seventh month in the lunar Nepal Sambat calendar. However, due to COVID-19, festivities were delayed by about 5 months due to government imposition of a lockdown.
 
 The chariot procession was instituted to celebrate the arrival of Buṅga Dyaḥ in Nepal and the end of a devastating drought. It was started when Narendra Deva was the king (640-683 AD).
 
