@@ -7,22 +7,29 @@ categories:
   - photo
 tags:
   - film
+  - story
 showDate: yes
 ---
 
-![The procession reaches Bungamati, 2 km south of Patan.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-01.jpg)
+{{< image-resize 20210216-rato-machendranath-01.jpg "1024x" >}}
 The procession reaches Bungamati, 2 km south of Patan.
-![People -- the Jyapu community especially -- are happy that they are able to fulfill their religious duty even if five months late.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-02.jpg)
+
+{{< image-resize 20210216-rato-machendranath-02.jpg "1024x" >}}
 People -- the Jyapu community especially -- are happy that they are able to fulfill their religious duty even if five months late.
-![Bystanders burning straw as palanquin passes.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-03.jpg)
+
+{{< image-resize 20210216-rato-machendranath-03.jpg "1024x" >}}
 Bystanders burning straw as palanquin passes.
-![Newar priests accompanied by a crowd transport Rato Machhendranath.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-04.jpg)
+
+{{< image-resize 20210216-rato-machendranath-04.jpg "1024x" >}}
 Newar priests accompanied by a crowd transport Rato Machhendranath.
-![Arrival at Bungamati temple.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-05.jpg)
+
+{{< image-resize 20210216-rato-machendranath-05.jpg "1024x" >}}
 Arrival at Bungamati temple.
-![Newar priests finished with their duty.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-06.jpg)
+
+{{< image-resize 20210216-rato-machendranath-06.jpg "1024x" >}}
 Newar priests finished with their duty.
-![Street dog resting in burnt straw.](/posts/rato-machhendranath-jatra/20210216-rato-machendranath-07.jpg)
+
+{{< image-resize 20210216-rato-machendranath-07.jpg "1024x" >}}
 Street dog resting in burnt straw.
 
 ## History
