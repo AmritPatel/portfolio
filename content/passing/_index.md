@@ -10,7 +10,7 @@ images:
 - /passing/images/20180617-passing-10.jpg
 ---
 
-### 06/14/18
+## 06/14/18
 
 ![](/passing/images/20180617-passing-01.jpg)
 ![](/passing/images/20180617-passing-03.jpg)
@@ -21,7 +21,7 @@ images:
 ![](/passing/images/20180617-passing-08.jpg)
 ![](/passing/images/20180617-passing-09.jpg)
 
-### 06/16/18
+## 06/16/18
 
 ![](/passing/images/20180617-passing-10.jpg)
 ![](/passing/images/20180617-passing-11.jpg)
@@ -34,7 +34,7 @@ images:
 ![](/passing/images/20180617-passing-23.jpg)
 ![](/passing/images/20180617-passing-24.jpg)
 
-### 06/22/18 
+## 06/22/18 
 
 ![](/passing/images/20180624-passing-25.jpg)
 ![](/passing/images/20180624-passing-26.jpg)
@@ -83,7 +83,7 @@ images:
 ![](/passing/images/20180715-passing-74.jpg)
 ![](/passing/images/20180715-passing-76.jpg)
 
-### 07/05/18
+## 07/05/18
 
 ![](/passing/images/20180715-passing-76a.jpg)
 ![](/passing/images/20180715-passing-77.jpg)
