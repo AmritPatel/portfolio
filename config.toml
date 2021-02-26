@@ -1,24 +1,24 @@
-baseurl                  = "https://amritpatel.netlify.netlify.app/"           # Your domain name
+baseurl                  = "https://amritpatel.netlify.netlify.app/" # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "Amrit Patel's photography portfolio"
 theme = "hugo-theme-sam"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsStyle            = "monokai"                                 # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1
+googleAnalytics          = "263554561"                               # Tracking code, eg. "UA-111111111-1
 ignoreFiles              = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "amrit.ico"
-    homepage             = "main"                           # What to call the home page link
+    homepage             = "main"                                    # What to call the home page link
     footerText           = "Built and maintained by Amrit Patel. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)."
 
 # Metadata for Open Graph and Twitter
-    description          = "Amrit Patel's photography portfolio" # Max 160 characters show in search results
-    images               = ["amrit.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    description          = "Amrit Patel's photography portfolio"     # Max 160 characters show in search results
+    images               = ["amrit.png"]                             # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Amrit Patel's photography portfolio"
     # rss                = ""
 
