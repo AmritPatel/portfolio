@@ -42,3 +42,5 @@ showDate: yes
 ![](2020-06-25.png)
 ![](2020-06-26.png)
 ![](2020-06-30.png)
+
+Created with [_Glance Back_](https://glanceback.info/) by [Maya Man](https://mayaontheinter.net/). [More info](https://mailchi.mp/6ad6af09ceb2/glanceback).
