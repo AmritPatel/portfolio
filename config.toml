@@ -29,10 +29,10 @@ ignoreFiles              = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.mainMenu]]
     link = "distancing"
     text = "distancing"
-
+    
 [[params.mainMenu]]
-    link = "wanderings"
-    text = "wanderings"
+    link = "passing"
+    text = "passing"
 
 [[params.mainMenu]]
     link = "portfolio"
