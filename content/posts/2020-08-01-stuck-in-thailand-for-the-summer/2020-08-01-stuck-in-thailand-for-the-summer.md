@@ -11,7 +11,7 @@ showDate: yes
 ---
 
 ![Remix of "Thai Classical Music" cover art. Artists: unknown; Label: Peacock (4) – TC 2801; Format: 
-Cassette, Compilation](/posts/2020-08-01-stuck-in-thailand-for-the-summer/classicalThai2.png)
+Cassette, Compilation](/posts/2020-08-01-stuck-in-thailand-for-the-summer/classicalThai.svg)
 _[Remix of "Thai Classical Music" cover art](https://docs.google.com/drawings/d/1RnzcxuGKNCH84lhJ1rYPw1LWfmgMTfB6iPmMKzN7US4/edit?usp=sharing). Listen to the music on [YouTube](https://www.youtube.com/watch?v=huLVF_3VY1c) or [bandcamp](https://petpetstapes.bandcamp.com/album/thai-traditional-music)._ 
 
 ---
