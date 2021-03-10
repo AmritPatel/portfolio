@@ -2,6 +2,7 @@ baseurl                  = "https://amritpatel.netlify.netlify.app/" # Your doma
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
+enableEmoji              = true
 title                    = "Amrit Patel's photography portfolio"
 theme = "hugo-theme-sam"
 pygmentsStyle            = "monokai"                                 # https://help.farbox.com/pygments.html
