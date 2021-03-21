@@ -1,5 +1,5 @@
 ---
-title: Langtang
+title: _Langtang_
 author: Amrit D. Patel
 date: '2021-03-15'
 slug: []

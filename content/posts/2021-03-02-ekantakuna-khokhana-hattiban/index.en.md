@@ -1,5 +1,5 @@
 ---
-title: 'Ekantakuna to Hattiban via Khokana'
+title: '_Ekantakuna_ to _Hattiban_ via _Khokana_'
 author: Amrit D. Patel
 date: '2021-03-02'
 slug: ekantakuna-khokhana-hattiban
