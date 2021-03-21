@@ -5,7 +5,8 @@ date: '2021-02-11'
 slug: []
 categories:
   - video
-tags: []
+tags:
+  - nepal
 showDate: yes
 ---
 

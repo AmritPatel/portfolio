@@ -6,6 +6,7 @@ slug: ekantakuna-khokhana-hattiban
 categories:
   - video
 tags:
+  - nepal
   - travel
 showDate: yes
 ---

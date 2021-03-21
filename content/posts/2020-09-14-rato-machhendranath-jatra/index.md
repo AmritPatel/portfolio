@@ -6,6 +6,7 @@ slug: rato-machhendranath-jatra
 categories:
   - photo
 tags:
+  - nepal
   - film
   - story
 showDate: yes

@@ -6,6 +6,7 @@ slug: []
 categories:
   - photo
 tags:
+  - nepal
   - portraits
 showDate: yes
 ---

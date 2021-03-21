@@ -6,6 +6,7 @@ slug: tag-your-it-mixer
 categories:
   - photo
 tags:
+  - nepal
   - film
 showDate: yes
 ---

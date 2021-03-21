@@ -6,6 +6,7 @@ slug: []
 categories:
   - photo
 tags:
+  - nepal
   - art
 showDate: yes
 ---
@@ -26,4 +27,4 @@ Next I ran the photo through the [deepart.io](https://deepart.io/img/uu2bc0Fq/) 
 Several hours of polyline tracing and applying Word Art in Google Drawing using one of the proposed names listed above resulted in the following vector-based image.
 
 !["Beyond the trail" banner based on landscape photo of Himalayas in Nepal.](/posts/2021-03-09-beyond-the-trail/beyondTheTrail.png)
-_["Beyond the trail" banner based on landscape photo of Himalayas in Nepal.](https://docs.google.com/drawings/d/1Zl-GOwHXfJl32v0WTFuxrjbBiVBMc6D3kCsNPK6mhFQ/edit?usp=sharing)._
+_["Beyond the trail" banner based on landscape photo of Himalayas in Nepal.](https://docs.google.com/drawings/d/1Zl-GOwHXfJl32v0WTFuxrjbBiVBMc6D3kCsNPK6mhFQ/edit?usp=sharing)_

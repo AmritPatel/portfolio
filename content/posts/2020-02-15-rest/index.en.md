@@ -6,6 +6,7 @@ slug: []
 categories:
   - photo
 tags:
+  - thailand
   - art
 showDate: yes
 ---

@@ -6,6 +6,7 @@ slug: stuck-in-hua-hin
 categories:
   - video
 tags:
+  - thailand
   - travel
   - art
 showDate: yes
