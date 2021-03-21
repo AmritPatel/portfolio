@@ -1,5 +1,5 @@
 ---
-title: A collection of analog black and white photography.
+title: A collection of analog black and white photography
 url: /portfolio
 categories:
   - photo
