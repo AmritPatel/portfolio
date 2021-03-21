@@ -1,5 +1,5 @@
 ---
-title: _Dhobighat_ FC
+title: Dhobighat FC
 author: Amrit D. Patel
 date: '2021-02-11'
 slug: []

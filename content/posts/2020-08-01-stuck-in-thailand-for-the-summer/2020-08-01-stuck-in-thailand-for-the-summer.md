@@ -1,5 +1,5 @@
 ---
-title: A month in _Hua Hin_ during the 2020 pandemic
+title: A month in Hua Hin during the 2020 pandemic
 author: Amrit D. Patel
 date: '2020-08-01'
 slug: stuck-in-hua-hin
