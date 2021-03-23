@@ -5,4 +5,6 @@ title: About
 
 More photography @ [amritpatel.tumblr.com](https://amritpatel.tumblr.com/) and [amritpatel.github.io](https://amritpatel.github.io/).
 
-Data viz projects at [amritpatel.rbind.io](https://amritpatel.rbind.io/).
+Data viz projects @ [amritpatel.rbind.io](https://amritpatel.rbind.io/).
+
+Professional work @ [Existentially, technology](https://existentially-tech.netlify.app/papers.html).
