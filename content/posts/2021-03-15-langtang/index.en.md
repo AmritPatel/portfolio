@@ -120,7 +120,7 @@ Buying cheese at the _Kyanjin_ Cheese Factory after sampling the unique taste of
 {{< image-resize langtang-70.jpg "1024x" >}}
 {{< image-resize langtang-72.jpg "1024x" >}}
 
-Auṃ maṇi padme hūṃ. "Thus the six syllables, om mani padme hum, mean that in dependence on the practice of a path which is an indivisible union of method and wisdom, you can transform your impure body, speech, and mind into the pure exalted body, speech, and mind of a Buddha[...]" —H.H. Tenzin Gyatso, 14th Dalai Lama. [_Source_](https://en.wikipedia.org/wiki/Om_mani_padme_hum).
+Auṃ maṇi padme hūṃ. "Thus the six syllables, om mani padme hum, mean that in dependence on the practice of a path which is an indivisible union of method and wisdom, you can transform your impure body, speech, and mind into the pure exalted body, speech, and mind of a Buddha[...]" —H.H. Tenzin Gyatso, 14th Dalai Lama. [Source](https://en.wikipedia.org/wiki/Om_mani_padme_hum).
 
 {{< image-resize langtang-73.jpg "1024x" >}}
 

@@ -10,6 +10,8 @@ images:
 - /passing/images/20180617-passing-10.jpg
 ---
 
+![](/passing/images/20180715-passing-76.jpg)
+
 ## 06/14/18
 
 ![](/passing/images/20180617-passing-01.jpg)
@@ -81,7 +83,6 @@ images:
 ![](/passing/images/20180715-passing-72.jpg)
 ![](/passing/images/20180715-passing-73.jpg)
 ![](/passing/images/20180715-passing-74.jpg)
-![](/passing/images/20180715-passing-76.jpg)
 
 ## 07/05/18
 
