@@ -118,9 +118,12 @@ Buying cheese at the _Kyanjin_ Cheese Factory after sampling the unique taste of
 ## Day 4: _Kyanjin_ to _Syafrubesi_ via _Sherpagaun_
 
 {{< image-resize langtang-70.jpg "1024x" >}}
+
+"Mani" is the shortened form of the mantra: Auṃ maṇi padme hūṃ. The "mani-wall" is a collection of stones or one large rock face inscribed with the mantra. Source: Bista, Dor Bahadur. _People of Nepal_. Kathmandu: Ratna Pustak Bhandar, 2019.
+
 {{< image-resize langtang-72.jpg "1024x" >}}
 
-Auṃ maṇi padme hūṃ. "Thus the six syllables, om mani padme hum, mean that in dependence on the practice of a path which is an indivisible union of method and wisdom, you can transform your impure body, speech, and mind into the pure exalted body, speech, and mind of a Buddha[...]" —H.H. Tenzin Gyatso, 14th Dalai Lama. [Source](https://en.wikipedia.org/wiki/Om_mani_padme_hum).
+"Thus the six syllables, auṃ maṇi padme hūṃ, mean that in dependence on the practice of a path which is an indivisible union of method and wisdom, you can transform your impure body, speech, and mind into the pure exalted body, speech, and mind of a Buddha[...]" —H.H. Tenzin Gyatso, 14th Dalai Lama. [Source](https://en.wikipedia.org/wiki/Om_mani_padme_hum).
 
 {{< image-resize langtang-73.jpg "1024x" >}}
 
