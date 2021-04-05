@@ -46,7 +46,7 @@ Rose explains on my behalf the feeling of seeing my name everywhere in Nepal.
 
 {{< image-resize poon-hill-4.jpg "1024x" >}}
 
-Handsome memorial shrines.
+In the Gurung language a funeral is called _Pai_ (_Arghum_ in Nepali). According to Gurung Shamanism, the correct method of dealing with a deceased body is by burial. However, as the Gurung's have migrated to the lower regions, many have been influenced by Hindus, and cremation is also common. After burial or cremation, the family of the deceased may construct a small shrine on a hill to offer food to the spirit, which remains and may cause misfortune. [Source](https://en.wikipedia.org/wiki/Gurung_shamanism#Description).
 
 {{< image-resize poon-hill-5.jpg "1024x" >}}
 
